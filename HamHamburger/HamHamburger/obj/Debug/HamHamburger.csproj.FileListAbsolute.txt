@@ -1,0 +1,11 @@
+C:\Users\103A-10\Desktop\KübraTAŞKIR\HamHamburger\HamHamburger\bin\Debug\HamHamburger.exe.config
+C:\Users\103A-10\Desktop\KübraTAŞKIR\HamHamburger\HamHamburger\bin\Debug\HamHamburger.exe
+C:\Users\103A-10\Desktop\KübraTAŞKIR\HamHamburger\HamHamburger\bin\Debug\HamHamburger.pdb
+C:\Users\103A-10\Desktop\KübraTAŞKIR\HamHamburger\HamHamburger\obj\Debug\HamHamburger.csproj.AssemblyReference.cache
+C:\Users\103A-10\Desktop\KübraTAŞKIR\HamHamburger\HamHamburger\obj\Debug\HamHamburger.csproj.SuggestedBindingRedirects.cache
+C:\Users\103A-10\Desktop\KübraTAŞKIR\HamHamburger\HamHamburger\obj\Debug\HamHamburger.Form1.resources
+C:\Users\103A-10\Desktop\KübraTAŞKIR\HamHamburger\HamHamburger\obj\Debug\HamHamburger.Properties.Resources.resources
+C:\Users\103A-10\Desktop\KübraTAŞKIR\HamHamburger\HamHamburger\obj\Debug\HamHamburger.csproj.GenerateResource.cache
+C:\Users\103A-10\Desktop\KübraTAŞKIR\HamHamburger\HamHamburger\obj\Debug\HamHamburger.csproj.CoreCompileInputs.cache
+C:\Users\103A-10\Desktop\KübraTAŞKIR\HamHamburger\HamHamburger\obj\Debug\HamHamburger.exe
+C:\Users\103A-10\Desktop\KübraTAŞKIR\HamHamburger\HamHamburger\obj\Debug\HamHamburger.pdb
