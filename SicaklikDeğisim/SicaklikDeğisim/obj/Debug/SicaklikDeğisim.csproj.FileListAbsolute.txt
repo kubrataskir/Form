@@ -1,0 +1,11 @@
+C:\Users\103A-10\Desktop\KübraTAŞKIR\SicaklikDeğisim\SicaklikDeğisim\bin\Debug\SicaklikDeğisim.exe.config
+C:\Users\103A-10\Desktop\KübraTAŞKIR\SicaklikDeğisim\SicaklikDeğisim\bin\Debug\SicaklikDeğisim.exe
+C:\Users\103A-10\Desktop\KübraTAŞKIR\SicaklikDeğisim\SicaklikDeğisim\bin\Debug\SicaklikDeğisim.pdb
+C:\Users\103A-10\Desktop\KübraTAŞKIR\SicaklikDeğisim\SicaklikDeğisim\obj\Debug\SicaklikDeğisim.csproj.AssemblyReference.cache
+C:\Users\103A-10\Desktop\KübraTAŞKIR\SicaklikDeğisim\SicaklikDeğisim\obj\Debug\SicaklikDeğisim.csproj.SuggestedBindingRedirects.cache
+C:\Users\103A-10\Desktop\KübraTAŞKIR\SicaklikDeğisim\SicaklikDeğisim\obj\Debug\SicaklikDeğisim.Form1.resources
+C:\Users\103A-10\Desktop\KübraTAŞKIR\SicaklikDeğisim\SicaklikDeğisim\obj\Debug\SicaklikDeğisim.Properties.Resources.resources
+C:\Users\103A-10\Desktop\KübraTAŞKIR\SicaklikDeğisim\SicaklikDeğisim\obj\Debug\SicaklikDeğisim.csproj.GenerateResource.cache
+C:\Users\103A-10\Desktop\KübraTAŞKIR\SicaklikDeğisim\SicaklikDeğisim\obj\Debug\SicaklikDeğisim.csproj.CoreCompileInputs.cache
+C:\Users\103A-10\Desktop\KübraTAŞKIR\SicaklikDeğisim\SicaklikDeğisim\obj\Debug\SicaklikDeğisim.exe
+C:\Users\103A-10\Desktop\KübraTAŞKIR\SicaklikDeğisim\SicaklikDeğisim\obj\Debug\SicaklikDeğisim.pdb
