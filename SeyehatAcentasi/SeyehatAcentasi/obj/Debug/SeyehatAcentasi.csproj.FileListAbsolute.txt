@@ -1,0 +1,11 @@
+C:\Users\103A-10\Desktop\KübraTAŞKIR\SeyehatAcentasi\SeyehatAcentasi\bin\Debug\SeyehatAcentasi.exe.config
+C:\Users\103A-10\Desktop\KübraTAŞKIR\SeyehatAcentasi\SeyehatAcentasi\bin\Debug\SeyehatAcentasi.exe
+C:\Users\103A-10\Desktop\KübraTAŞKIR\SeyehatAcentasi\SeyehatAcentasi\bin\Debug\SeyehatAcentasi.pdb
+C:\Users\103A-10\Desktop\KübraTAŞKIR\SeyehatAcentasi\SeyehatAcentasi\obj\Debug\SeyehatAcentasi.csproj.AssemblyReference.cache
+C:\Users\103A-10\Desktop\KübraTAŞKIR\SeyehatAcentasi\SeyehatAcentasi\obj\Debug\SeyehatAcentasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\103A-10\Desktop\KübraTAŞKIR\SeyehatAcentasi\SeyehatAcentasi\obj\Debug\SeyehatAcentasi.Form1.resources
+C:\Users\103A-10\Desktop\KübraTAŞKIR\SeyehatAcentasi\SeyehatAcentasi\obj\Debug\SeyehatAcentasi.Properties.Resources.resources
+C:\Users\103A-10\Desktop\KübraTAŞKIR\SeyehatAcentasi\SeyehatAcentasi\obj\Debug\SeyehatAcentasi.csproj.GenerateResource.cache
+C:\Users\103A-10\Desktop\KübraTAŞKIR\SeyehatAcentasi\SeyehatAcentasi\obj\Debug\SeyehatAcentasi.csproj.CoreCompileInputs.cache
+C:\Users\103A-10\Desktop\KübraTAŞKIR\SeyehatAcentasi\SeyehatAcentasi\obj\Debug\SeyehatAcentasi.exe
+C:\Users\103A-10\Desktop\KübraTAŞKIR\SeyehatAcentasi\SeyehatAcentasi\obj\Debug\SeyehatAcentasi.pdb
