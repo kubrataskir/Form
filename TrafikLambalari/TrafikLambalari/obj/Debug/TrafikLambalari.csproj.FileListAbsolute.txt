@@ -1,0 +1,11 @@
+C:\Users\103A-10\Desktop\KübraTAŞKIR\TrafikLambalari\TrafikLambalari\bin\Debug\TrafikLambalari.exe.config
+C:\Users\103A-10\Desktop\KübraTAŞKIR\TrafikLambalari\TrafikLambalari\bin\Debug\TrafikLambalari.exe
+C:\Users\103A-10\Desktop\KübraTAŞKIR\TrafikLambalari\TrafikLambalari\bin\Debug\TrafikLambalari.pdb
+C:\Users\103A-10\Desktop\KübraTAŞKIR\TrafikLambalari\TrafikLambalari\obj\Debug\TrafikLambalari.csproj.AssemblyReference.cache
+C:\Users\103A-10\Desktop\KübraTAŞKIR\TrafikLambalari\TrafikLambalari\obj\Debug\TrafikLambalari.csproj.SuggestedBindingRedirects.cache
+C:\Users\103A-10\Desktop\KübraTAŞKIR\TrafikLambalari\TrafikLambalari\obj\Debug\TrafikLambalari.Form1.resources
+C:\Users\103A-10\Desktop\KübraTAŞKIR\TrafikLambalari\TrafikLambalari\obj\Debug\TrafikLambalari.Properties.Resources.resources
+C:\Users\103A-10\Desktop\KübraTAŞKIR\TrafikLambalari\TrafikLambalari\obj\Debug\TrafikLambalari.csproj.GenerateResource.cache
+C:\Users\103A-10\Desktop\KübraTAŞKIR\TrafikLambalari\TrafikLambalari\obj\Debug\TrafikLambalari.csproj.CoreCompileInputs.cache
+C:\Users\103A-10\Desktop\KübraTAŞKIR\TrafikLambalari\TrafikLambalari\obj\Debug\TrafikLambalari.exe
+C:\Users\103A-10\Desktop\KübraTAŞKIR\TrafikLambalari\TrafikLambalari\obj\Debug\TrafikLambalari.pdb
