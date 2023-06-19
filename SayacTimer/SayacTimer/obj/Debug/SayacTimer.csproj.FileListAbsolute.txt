@@ -1,0 +1,11 @@
+C:\Users\103A-10\Desktop\KübraTAŞKIR\SayacTimer\SayacTimer\bin\Debug\SayacTimer.exe.config
+C:\Users\103A-10\Desktop\KübraTAŞKIR\SayacTimer\SayacTimer\bin\Debug\SayacTimer.exe
+C:\Users\103A-10\Desktop\KübraTAŞKIR\SayacTimer\SayacTimer\bin\Debug\SayacTimer.pdb
+C:\Users\103A-10\Desktop\KübraTAŞKIR\SayacTimer\SayacTimer\obj\Debug\SayacTimer.csproj.AssemblyReference.cache
+C:\Users\103A-10\Desktop\KübraTAŞKIR\SayacTimer\SayacTimer\obj\Debug\SayacTimer.csproj.SuggestedBindingRedirects.cache
+C:\Users\103A-10\Desktop\KübraTAŞKIR\SayacTimer\SayacTimer\obj\Debug\SayacTimer.Form1.resources
+C:\Users\103A-10\Desktop\KübraTAŞKIR\SayacTimer\SayacTimer\obj\Debug\SayacTimer.Properties.Resources.resources
+C:\Users\103A-10\Desktop\KübraTAŞKIR\SayacTimer\SayacTimer\obj\Debug\SayacTimer.csproj.GenerateResource.cache
+C:\Users\103A-10\Desktop\KübraTAŞKIR\SayacTimer\SayacTimer\obj\Debug\SayacTimer.csproj.CoreCompileInputs.cache
+C:\Users\103A-10\Desktop\KübraTAŞKIR\SayacTimer\SayacTimer\obj\Debug\SayacTimer.exe
+C:\Users\103A-10\Desktop\KübraTAŞKIR\SayacTimer\SayacTimer\obj\Debug\SayacTimer.pdb
