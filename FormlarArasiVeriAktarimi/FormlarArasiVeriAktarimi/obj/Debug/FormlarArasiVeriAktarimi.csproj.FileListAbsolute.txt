@@ -1,0 +1,12 @@
+C:\Users\103A-10\Desktop\KübraTAŞKIR\FormlarArasiVeriAktarimi\FormlarArasiVeriAktarimi\bin\Debug\FormlarArasiVeriAktarimi.exe.config
+C:\Users\103A-10\Desktop\KübraTAŞKIR\FormlarArasiVeriAktarimi\FormlarArasiVeriAktarimi\bin\Debug\FormlarArasiVeriAktarimi.exe
+C:\Users\103A-10\Desktop\KübraTAŞKIR\FormlarArasiVeriAktarimi\FormlarArasiVeriAktarimi\bin\Debug\FormlarArasiVeriAktarimi.pdb
+C:\Users\103A-10\Desktop\KübraTAŞKIR\FormlarArasiVeriAktarimi\FormlarArasiVeriAktarimi\obj\Debug\FormlarArasiVeriAktarimi.csproj.AssemblyReference.cache
+C:\Users\103A-10\Desktop\KübraTAŞKIR\FormlarArasiVeriAktarimi\FormlarArasiVeriAktarimi\obj\Debug\FormlarArasiVeriAktarimi.csproj.SuggestedBindingRedirects.cache
+C:\Users\103A-10\Desktop\KübraTAŞKIR\FormlarArasiVeriAktarimi\FormlarArasiVeriAktarimi\obj\Debug\FormlarArasiVeriAktarimi.Form1.resources
+C:\Users\103A-10\Desktop\KübraTAŞKIR\FormlarArasiVeriAktarimi\FormlarArasiVeriAktarimi\obj\Debug\FormlarArasiVeriAktarimi.Form2.resources
+C:\Users\103A-10\Desktop\KübraTAŞKIR\FormlarArasiVeriAktarimi\FormlarArasiVeriAktarimi\obj\Debug\FormlarArasiVeriAktarimi.Properties.Resources.resources
+C:\Users\103A-10\Desktop\KübraTAŞKIR\FormlarArasiVeriAktarimi\FormlarArasiVeriAktarimi\obj\Debug\FormlarArasiVeriAktarimi.csproj.GenerateResource.cache
+C:\Users\103A-10\Desktop\KübraTAŞKIR\FormlarArasiVeriAktarimi\FormlarArasiVeriAktarimi\obj\Debug\FormlarArasiVeriAktarimi.csproj.CoreCompileInputs.cache
+C:\Users\103A-10\Desktop\KübraTAŞKIR\FormlarArasiVeriAktarimi\FormlarArasiVeriAktarimi\obj\Debug\FormlarArasiVeriAktarimi.exe
+C:\Users\103A-10\Desktop\KübraTAŞKIR\FormlarArasiVeriAktarimi\FormlarArasiVeriAktarimi\obj\Debug\FormlarArasiVeriAktarimi.pdb
