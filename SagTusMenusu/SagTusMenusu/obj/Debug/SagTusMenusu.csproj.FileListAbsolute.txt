@@ -1,0 +1,13 @@
+C:\Users\103A-10\Desktop\KübraTAŞKIR\SagTusMenusu\SagTusMenusu\bin\Debug\SagTusMenusu.exe.config
+C:\Users\103A-10\Desktop\KübraTAŞKIR\SagTusMenusu\SagTusMenusu\bin\Debug\SagTusMenusu.exe
+C:\Users\103A-10\Desktop\KübraTAŞKIR\SagTusMenusu\SagTusMenusu\bin\Debug\SagTusMenusu.pdb
+C:\Users\103A-10\Desktop\KübraTAŞKIR\SagTusMenusu\SagTusMenusu\obj\Debug\SagTusMenusu.csproj.AssemblyReference.cache
+C:\Users\103A-10\Desktop\KübraTAŞKIR\SagTusMenusu\SagTusMenusu\obj\Debug\SagTusMenusu.csproj.SuggestedBindingRedirects.cache
+C:\Users\103A-10\Desktop\KübraTAŞKIR\SagTusMenusu\SagTusMenusu\obj\Debug\SagTusMenusu.Form1.resources
+C:\Users\103A-10\Desktop\KübraTAŞKIR\SagTusMenusu\SagTusMenusu\obj\Debug\SagTusMenusu.Properties.Resources.resources
+C:\Users\103A-10\Desktop\KübraTAŞKIR\SagTusMenusu\SagTusMenusu\obj\Debug\SagTusMenusu.csproj.GenerateResource.cache
+C:\Users\103A-10\Desktop\KübraTAŞKIR\SagTusMenusu\SagTusMenusu\obj\Debug\SagTusMenusu.csproj.CoreCompileInputs.cache
+C:\Users\103A-10\Desktop\KübraTAŞKIR\SagTusMenusu\SagTusMenusu\obj\Debug\SagTusMenusu.exe
+C:\Users\103A-10\Desktop\KübraTAŞKIR\SagTusMenusu\SagTusMenusu\obj\Debug\SagTusMenusu.pdb
+C:\Users\103A-10\Desktop\KübraTAŞKIR\SagTusMenusu\SagTusMenusu\obj\Debug\SagTusMenusu.Form2.resources
+C:\Users\103A-10\Desktop\KübraTAŞKIR\SagTusMenusu\SagTusMenusu\obj\Debug\SagTusMenusu.Form3.resources
