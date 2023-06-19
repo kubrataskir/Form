@@ -1,0 +1,11 @@
+C:\Users\103A-10\Desktop\KübraTAŞKIR\sql\sql\bin\Debug\sql.exe.config
+C:\Users\103A-10\Desktop\KübraTAŞKIR\sql\sql\bin\Debug\sql.exe
+C:\Users\103A-10\Desktop\KübraTAŞKIR\sql\sql\bin\Debug\sql.pdb
+C:\Users\103A-10\Desktop\KübraTAŞKIR\sql\sql\obj\Debug\sql.csproj.AssemblyReference.cache
+C:\Users\103A-10\Desktop\KübraTAŞKIR\sql\sql\obj\Debug\sql.csproj.SuggestedBindingRedirects.cache
+C:\Users\103A-10\Desktop\KübraTAŞKIR\sql\sql\obj\Debug\sql.Form1.resources
+C:\Users\103A-10\Desktop\KübraTAŞKIR\sql\sql\obj\Debug\sql.Properties.Resources.resources
+C:\Users\103A-10\Desktop\KübraTAŞKIR\sql\sql\obj\Debug\sql.csproj.GenerateResource.cache
+C:\Users\103A-10\Desktop\KübraTAŞKIR\sql\sql\obj\Debug\sql.csproj.CoreCompileInputs.cache
+C:\Users\103A-10\Desktop\KübraTAŞKIR\sql\sql\obj\Debug\sql.exe
+C:\Users\103A-10\Desktop\KübraTAŞKIR\sql\sql\obj\Debug\sql.pdb
